@@ -71,7 +71,7 @@
 
 ---
 
-# Cloud Computing & Networking Explained Simply
+# Cloud Computing & Networking Explained 
 
 ## 1. What is Cloud Computing?
 Cloud computing means using the internet to store, manage, and process data instead of using your own computer or servers. It's like renting computing power and storage from a big company (like Amazon or Microsoft) instead of buying and maintaining your own hardware.
